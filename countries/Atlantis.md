@@ -1,6 +1,12 @@
-## Atlantis
+# Atlantis
 
-population
-capital
-official language
-interesting trivia
+## population
+Unknown
+
+## capital
+Atlantis
+
+## official language
+Atlantisian
+
+## interesting trivia
