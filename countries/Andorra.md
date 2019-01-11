@@ -1,11 +1,11 @@
 ##Andorra
-## population
+## population 77,281
 
 
 ## capital
 
  
-## official language
+## official language Catalan
 
 
 ## interesting trivia
