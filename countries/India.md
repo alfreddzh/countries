@@ -1,14 +1,14 @@
 ##India
-## population
+## population : 1,324,171,354
 
 
-## capital
+## capital : New Delhi
 
  
-## official language
+## official language : Hindi, English
 
 
-## interesting trivia
+## interesting trivia : One of the largest democracies in the word
 
 
 
