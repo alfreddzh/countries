@@ -1,14 +1,14 @@
 ##Nepal
-## population
+## population: 29 Mill
 
 
-## capital
+## capital:Khatmandu
 
  
-## official language
+## official language:Nepali
 
 
-## interesting trivia
+## interesting trivia: Himalayan Hindu Democratic and Soverign Country
 
 
 
