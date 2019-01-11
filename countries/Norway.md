@@ -1,14 +1,12 @@
 ##Norway
-## population
+## Population
+## 5.258 Million
 
-
-## capital
-
+## Capital
+## Oslo
  
-## official language
+## Official Language
+## Norwegian
 
-
-## interesting trivia
-
-
-
+## Interesting Trivia
+## Skjerp deg. This phrase does not bode well for you.
